@@ -7,3 +7,5 @@
 ![C Intermediate Certificate](C_program_certificate/c_intermediate.jpg)
 
 ![Introduction to C Certificate](C_program_certificate/introduction_to_c.jpg)
+
+![4488165 Prasane Pantala Introduction to C Certificate](C_program_certificate/4488165_c.png)
