@@ -32,7 +32,6 @@ char* pangrams(char* s) {
 int main() {
     char str[1000];
     fgets(str, sizeof(str), stdin);
-    // Remove trailing newline if any
     str[strcspn(str, "\n")] = '\0';
 
     char* result = pangrams(str);
